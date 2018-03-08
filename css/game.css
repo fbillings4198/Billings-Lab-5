@@ -1,0 +1,11 @@
+.background    { background: #9a4141;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: #F3F315; }
+.wall          { background-image: url("http://superwalrusland.com/ohr/issue26/pa/brick3_b.jpg");   }
+.floater       { background: #EDEDED; }
+
+.game {
+  position: relative;
+}
